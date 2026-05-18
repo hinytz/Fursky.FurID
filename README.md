@@ -1,12 +1,25 @@
-# Bluesky Social App
+# Fursky
 
-Welcome friends! This is the codebase for the Bluesky Social app.
+This is a fork of the [Bluesky Social app](https://github.com/bluesky-social/social-app).
+
+*The code being used on the live version will be published soon.*
 
 Get the app itself:
 
-- **Web: [bsky.app](https://bsky.app)**
-- **iOS: [App Store](https://apps.apple.com/us/app/bluesky-social/id6444370199)**
-- **Android: [Play Store](https://play.google.com/store/apps/details?id=xyz.blueskyweb.app)**
+- **Web: [fursky.furid.co](https://fursky.furid.co)**
+- ~**iOS: App Store**~ NOT PLANNED
+- **Android: PlayStore** SOON
+
+## Current Features
+- Custom themes for light/dark mode (Black, Blue, Orange, Red and Green)
+- Grid media view (Media/Video)
+- Media view dialog
+- fursky.furid.co sharing url
+
+## Planned
+- Custom home and discover feed
+- Media view togle
+- *More to come...*
 
 ## Development Resources
 
